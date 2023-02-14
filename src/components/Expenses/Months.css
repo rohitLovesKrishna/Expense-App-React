@@ -1,0 +1,6 @@
+
+.months-box{
+    display: flex;
+    justify-content: space-evenly;
+    color: white;
+}
